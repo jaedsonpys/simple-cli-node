@@ -1,0 +1,12 @@
+{
+  "name": "nodecli-learn",
+  "version": "1.0.0",
+  "description": "Código de aprendizado sobre CLI em NodeJS. Este código realiza uma pesquisa de arquivos com a extensão passada pela linha de comando",
+  "main": "cli.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaedson Silva",
+  "license": "ISC"
+}
